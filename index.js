@@ -138,5 +138,4 @@ class SMPP extends EventEmitter{
 
 
 
-
-export default SMPP
+module.exports = SMPP
