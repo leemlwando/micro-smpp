@@ -1,0 +1,14 @@
+{
+  "name": "micro-smpp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "smpp": "^0.4.0",
+    "uuid": "^3.3.2"
+  },
+  "description": "smpp rapper class to interact with smpp server",
+  "repository": "https://github.com/leemlwando/micro-smpp.git",
+  "author": "lee m. lwando <leemlwando@gmail.com>",
+  "private": false
+}
